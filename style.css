@@ -1,3 +1,7 @@
 .logo{
-    width: 260px;
+    width: 140px;
+    cursor: pointer;
+}
+#navbar{
+    background-color: #000000;
 }
