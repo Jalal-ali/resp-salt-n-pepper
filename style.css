@@ -1,10 +1,10 @@
-*{
+/* *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     color: #ffffff;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+} */
 .logo{
     width: 140px;
     cursor: pointer;
@@ -81,8 +81,17 @@ a {
     color: var(--red);                   
 }
 #icon{
-    color: grey ;
+    color: rgb(31, 113, 33) ;
+}
+.loc-icon{
+    color: var(--red);
 }
 .text-red{
     color: var(--red);
+}
+.width{
+    width: 40rem;
+}
+.w-10{
+    width: 50px;
 }
